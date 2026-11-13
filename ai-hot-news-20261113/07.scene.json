@@ -1,0 +1,9 @@
+{
+  "layout": "end1",
+  "themeId": "serious-dark",
+  "orientation": "vertical",
+  "slots": {
+    "title": "敢，|还是|不敢",
+    "subtitle": "评论区打出来｜下期：AI下错单谁赔"
+  }
+}

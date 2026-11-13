@@ -1,0 +1,9 @@
+{
+  "layout": "hero3",
+  "themeId": "serious-dark",
+  "orientation": "vertical",
+  "slots": {
+    "title": "美联航|封了AI",
+    "subtitle": "第三方AI助手：可查价，不可下单"
+  }
+}

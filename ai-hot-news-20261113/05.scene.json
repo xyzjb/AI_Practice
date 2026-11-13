@@ -1,0 +1,14 @@
+{
+  "layout": "stats1",
+  "themeId": "serious-dark",
+  "orientation": "vertical",
+  "slots": {
+    "heading": "AI下单有多冷",
+    "items": [
+      { "num": "3.2亿", "label": "Uber周订单" },
+      { "num": "500单", "label": "AI外卖单" },
+      { "num": "4单", "label": "AI叫车单" }
+    ],
+    "footnote": "2026万圣节当周 Uber 公布数据"
+  }
+}

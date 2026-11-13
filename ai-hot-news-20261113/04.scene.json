@@ -1,0 +1,13 @@
+{
+  "layout": "list1",
+  "themeId": "serious-dark",
+  "orientation": "vertical",
+  "slots": {
+    "heading": "平台怕三件事",
+    "items": [
+      "密码交出去，等于交出钥匙",
+      "订错票、花掉里程，谁负责",
+      "值机必须真人确认行李安全"
+    ]
+  }
+}

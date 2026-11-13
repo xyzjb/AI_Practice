@@ -1,0 +1,9 @@
+{
+  "layout": "hero1",
+  "themeId": "serious-dark",
+  "orientation": "vertical",
+  "slots": {
+    "title": "AI替你付钱|被拒",
+    "subtitle": "美联航：可以查，不许买"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "layout": "quote1",
+  "themeId": "serious-dark",
+  "orientation": "vertical",
+  "slots": {
+    "text": "我不想再多一个中间商。",
+    "source": "美联航CEO 柯比"
+  }
+}
