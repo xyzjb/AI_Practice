@@ -1,12 +1,13 @@
-# WorkBuddy 本地助手数据：保留在本地，不入库
+# WorkBuddy 本地助手数据：任意层级，保留在本地、不入库
 .workbuddy/
 
-# 第三方运行时与渲染中间产物
-ai-hot-news-20261113/_bin/
-ai-hot-news-20261113/_img/
-ai-hot-news-20261113/*.bg.png
-ai-hot-news-20261113/*.mp3
-ai-hot-news-20261113/*.part.mp4
+# 各实践通用的第三方运行时与渲染中间产物
+# 使用 **/ 通配，对 01_、02_... 等任意编号的实践目录都生效
+**/_bin/
+**/_img/
+**/*.bg.png
+**/*.mp3
+**/*.part.mp4
 
 # 通用
 node_modules/
